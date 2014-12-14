@@ -21,6 +21,6 @@
 	<import resource="classpath:META-INF/cxf/cxf-extension-http.xml" />
 
 	<jaxws:endpoint id="hello"
-		implementor="com.github.fawwaz.heroku.service.ApiImpl" address="/HelloService" />
+		implementor="com.github.fawwaz.heroku.service.ApiImpl" address="/Api" />
 
 </beans>

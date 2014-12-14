@@ -10,7 +10,7 @@ import javax.jws.WebService;
  * 
  */
 @WebService
-public interface HelloService {
+public interface Api {
 
 	String sayHi(String input);
 }

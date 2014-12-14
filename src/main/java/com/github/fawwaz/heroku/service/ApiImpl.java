@@ -7,7 +7,7 @@ package com.github.fawwaz.heroku.service;
  * @author chamerling
  * 
  */
-public class HelloServiceImpl implements HelloService {
+public class ApiImpl implements Api {
 
 	@Override
 	public String sayHi(String input) {

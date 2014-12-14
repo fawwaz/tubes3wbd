@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.chamerling.heroku.service;
+package com.github.fawwaz.heroku.service;
 
 /**
  * @author chamerling

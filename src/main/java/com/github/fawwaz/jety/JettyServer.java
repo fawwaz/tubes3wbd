@@ -1,4 +1,4 @@
-package org.chamerling.heroku.jetty;
+package com.github.fawwaz.jety;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;

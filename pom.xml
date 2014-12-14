@@ -72,6 +72,42 @@
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.6.2</version>
 		</dependency>
+	 <dependency>
+	  <groupId>org.codehaus.jackson</groupId>
+	  <artifactId>jackson-mapper-lgpl</artifactId>
+	  <version>1.9.5</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.codehaus.jackson</groupId>
+	  <artifactId>jackson-xc</artifactId>
+	  <version>1.9.5</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.codehaus.jackson</groupId>
+	  <artifactId>jackson-core-lgpl</artifactId>
+	  <version>1.9.5</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.apache.logging.log4j</groupId>
+	  <artifactId>log4j</artifactId>
+	  <version>2.0.2</version>
+	  <type>pom</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>HTTPClient</groupId>
+	  <artifactId>HTTPClient</artifactId>
+	  <version>0.3-3</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.codehaus.httpcache4j.clients</groupId>
+	  <artifactId>clients-httpClient</artifactId>
+	  <version>1.0-RC1</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.codehaus.httpcache4j.clients</groupId>
+	  <artifactId>clients-httpclient</artifactId>
+	  <version>1.0</version>
+	 </dependency>
 	</dependencies>
 
 	<build>

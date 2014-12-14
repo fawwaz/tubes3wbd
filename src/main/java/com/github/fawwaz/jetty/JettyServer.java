@@ -1,4 +1,4 @@
-package com.github.fawwaz.jety;
+package com.github.fawwaz.jetty;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;

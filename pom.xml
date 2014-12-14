@@ -97,12 +97,6 @@
 	  <version>1.9.5</version>
 	 </dependency>
 	 <dependency>
-	  <groupId>org.apache.logging.log4j</groupId>
-	  <artifactId>log4j</artifactId>
-	  <version>2.0.2</version>
-	  <type>pom</type>
-	 </dependency>
-	 <dependency>
 	  <groupId>HTTPClient</groupId>
 	  <artifactId>HTTPClient</artifactId>
 	  <version>0.3-3</version>
@@ -175,7 +169,7 @@
 					<generateRepository>true</generateRepository>
 					<programs>
 						<program>
-							<mainClass>org.chamerling.heroku.jetty.JettyServer</mainClass>
+							<mainClass>com.github.fawwaz.jetty.JettyServer</mainClass>
 							<name>webapp</name>
 						</program>
 					</programs>
